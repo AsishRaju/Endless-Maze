@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endless Maze</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="faviicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="faviicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="faviicon/favicon-16x16.png">
+    <link rel="manifest" href="faviicon/manifest.json">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.14.2/matter.min.js" integrity="sha256-Bmvb4pJWin8rqq3GnwPz/hxBtqXaMdZHJnHYlpRULa4=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    
+    <div class="container my-3">
+        <div class="row">
+            <div class="col-sm-4">
+                <p class="text-primary text-monospace font-weight-bold animated fadeInDown delay-1s" style="font-size: 20px;">&nbsp; Use <img src="style/key.png" alt="" style="height: 60px; width: 60px;"> keys to move</p>
+            </div>
+            <div class="col-sm-4">
+                <h1 class="text-dark text-center animated slideInDown">Endless Maze <img src="https://img.icons8.com/officel/40/000000/hard-to-find.png"/></h1>
+            </div>
+            <div class="col-sm-4">
+                <p class="text-danger text-monospace text-center font-weight-bold mt-3 animated fadeInDown delay-1s" style="float: right; font-size: 25px;">Level: <span id="level">1</span></p>
+            </div>
+        </div>
+        <div class="maze-canvas animated fadeIn delay-2s text-center" >
+        </div>
+                <div class="text-center mx-auto animated fadeIn delay-4s " style="top: 40">
+        
+                    <a href="https://brm.io/matter-js/" class="badge badge-warning" style="align-items: center; " >Powered By Matter.js 🚀</a>
+                    &nbsp; &nbsp; &nbsp;
+                    <p class="text-monospace text-center font-weight-bold" style="display: inline; font-size: 20px;">Help the ball to find its way to his <span class="text-danger">red</span>  box </p>
+                    &nbsp; &nbsp; &nbsp;
+                    <a href="https://github.com/AsishRaju?tab=repositories" class="badge badge-primary" style="align-items: center;" >Asish.io ⚡</a>
+                </div>
+            
+    
+                
+    </div>
+    
+    
+    
+
+    <script src="scripts/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color: #effffb;
+}
+
+
+.maze-canvas{
+    width: 1200px;
+}
+
+.container{
+    min-width: 1200px;
+}
