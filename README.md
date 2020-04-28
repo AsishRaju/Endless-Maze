@@ -1,8 +1,7 @@
 
 
 # Endless Maze 🎮
- <img src="https://img.shields.io/badge/Made%20with-JAVASCRIPT-orange?style=for-the-badge"> 
- <img src="https://img.shields.io/badge/Made%20with-Matter.js-blue?style=for-the-badge"> 
+ <img src="https://img.shields.io/badge/Made%20with-JAVASCRIPT-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Made%20with-Matter.js-blue?style=for-the-badge"> 
 
  ### Check it out [here]!
 ## Overview 👀
@@ -49,7 +48,7 @@
 [Gmail]: <mailto:vashish888@gmail.com>
 [LinkedIn]: <https://www.linkedin.com/in/asish-raju-7a0b90192>
 [Twitter]: <https://twitter.com/vashish888>
-[here]:<>
+[here]:<https://asishraju.github.io/Endless-Maze/>
 [Matter.js]:<https://brm.io/matter-js/>
 [Tutorial]:<https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bLh3T_4wtrmVHOrOEM1ig_>
 [Documentaion]:<https://brm.io/matter-js/docs/>
