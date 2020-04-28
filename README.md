@@ -38,6 +38,7 @@
 #### I would recommend you to get familar with the `test\index2.js` before you start learning the maze generation algorithm and also a piror knowledge on `Matter.js` should be necessary in order to understand the logic code
 
 ### Matter.js [Tutorial]/[Documentaion]
+`whole project took ~16hr to complete from learn to deploy`
 
 - Yes,it is open source you can clone and change code to your need.
 - Most of the code is self explanatory, anyhow
