@@ -1,7 +1,7 @@
 
 
 # Endless Maze 🎮
- <img src="https://img.shields.io/badge/Made%20with-JAVASCRIPT-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Made%20with-Matter.js-blue?style=for-the-badge"> 
+ <img src="https://img.shields.io/badge/Made%20with-JAVASCRIPT-orange?style=for-the-badge"> 
 
  ### Check it out [here]!
 ## Overview 👀
