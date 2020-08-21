@@ -48,7 +48,7 @@
 [Gmail]: <mailto:vashish888@gmail.com>
 [LinkedIn]: <https://www.linkedin.com/in/asish-raju-7a0b90192>
 [Twitter]: <https://twitter.com/vashish888>
-[here]:<https://asishraju.me/endless-maze/>
+[here]:<http://asishraju.me/Endless-Maze/>
 [Matter.js]:<https://brm.io/matter-js/>
 [Tutorial]:<https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bLh3T_4wtrmVHOrOEM1ig_>
 [Documentaion]:<https://brm.io/matter-js/docs/>
